@@ -1,0 +1,7 @@
+Ultrasonic Sensor ( HC-SR04):----Measures the distance to objects by emitting ultrasonic waves and detecting the reflected signals.
+Arduino Uno R3:------------------Acts as the microcontroller to process data and control the system.
+Servo Motor:---------------------Rotates the ultrasonic sensor to cover a wide area for scanning.
+Breadboard and Jumper Wires:-----Used for creating the circuit connections.
+Laptop and Software:-------------To visualize the radar data on a graphical interface, like Processing or Python.
+USB cable from arduino:----------To connect the UNO R3 to the laptop which I am using.
+Double sided tape & gum:---------To stick the components to the breadboard.
