@@ -1,6 +1,7 @@
 # Ultrasonic-Radar-project-Arduino-R3
 A repository of mine which is about the making of Ultrasonic Radar project from scratch to the refinements...
 credit: @Techie_Siddh ---from youtube--- I have learnt the making of this project from him.
+I have taken the code from him and made some changes. There is a seperate file for crediting him in this repository.
 ->I have learnt about this project and it's purposes and processes from scratch.
 ->I have achieved success by making this project from virtually to reality.
 
