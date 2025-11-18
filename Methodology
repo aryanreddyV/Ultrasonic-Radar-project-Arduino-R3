@@ -1,0 +1,12 @@
+Working principles:::
+1.Rotating & scanning---A servo motor rotates the sensor in a predefined angle range (e.g., 0° to 180°).
+                        Distance data is collected at each angle to map the surroundings.
+
+2.Data visualization---The Arduino sends the distance and angle data to a computer via serial communication from laptop by USB cable to UNO R3
+                       The data is displayed on a radar-like interface, showing the positions of detected objects.
+
+This Ultrasonic Radar technology is used in various industries like:-
+-Robotics & Autonomous vehincles-for obtacle detection
+-Industrial automation-for proximity sensing and level measurement
+-Automotive safety systems-for parking assitance & anti-collision systems
+-Environmental monitoring & Process control-for measuring liquid levels and flow rates
