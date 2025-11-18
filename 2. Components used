@@ -1,3 +1,5 @@
+-----------[COMPONENTS USED IN THIS PROJECT]-----------
+
 Ultrasonic Sensor ( HC-SR04):----Measures the distance to objects by emitting ultrasonic waves and detecting the reflected signals.
 Arduino Uno R3:------------------Acts as the microcontroller to process data and control the system.
 Servo Motor:---------------------Rotates the ultrasonic sensor to cover a wide area for scanning.
