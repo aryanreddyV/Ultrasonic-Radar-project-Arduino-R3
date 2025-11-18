@@ -1,0 +1,34 @@
+-----------[Learning:::]-----------
+I have learned how to make an Ultrasonic Radar system by using components of Arduino uno R3, Ultrasonic sensor HC SR04, Servo motor,
+Breadboard and jumper wires...
+I learnt its process & uses in real life...
+I have learnt how to debugging hardware &  debugging software by modifying the code.
+
+
+
+-----------[ Skills Acquired from the Ultrasonic Radar Project:::]-----------
+
+## Technical Skills 
+Here are the specific technical skills I developed or enhanced during this project:
+
+1. Physical Computing:** Learned how to bridge the gap between software instructions and physical hardware movements using an Arduino board.
+2. Electronics Wiring & Prototyping:** Gained hands-on experience using a breadboard to manage connections safely and efficiently. I learned
+                                          how to correctly connect VCC (power), GND (ground), and signal pins for sensors and motors.
+3. Microcontroller Programming (Arduino/C++):** Modified and uploaded C++ code to control an SG90 servo motor (for movement) and an HC-SR04
+                                                   ultrasonic sensor (for distance readings).
+4. Serial Communication:** Set up data transfer between the Arduino board and my laptop's software (Processing IDE) via a USB COM port.
+5. Graphical Programming (Processing IDE):** Customized a Java-based Processing sketch to display data graphically and personalize the 
+                                                output (adding my name display).
+6. Version Control (Git/GitHub):** Documented the entire build process and uploaded all code to a GitHub repository, practicing 
+                                      industry-standard documentation habits.
+
+## Problem-Solving Skills 
+Building this project required independent troubleshooting and learning how to overcome unexpected errors:
+
+1. Debugging Hardware:** Figured out how to connect male-to-male wires to female sockets and a breadboard, ensuring every component had
+                         power and ground.
+2. Debugging Software/Connectivity:** Independently resolved the `Access is denied` COM port error by ensuring only one program 
+                                      (either Arduino IDE for uploading or Processing IDE for running) accessed the port at a time.
+3. Independent Initiative:** Successfully built and customized the project from start to finish with minimal external guidance, demonstrating 
+                                resourcefulness.
+
